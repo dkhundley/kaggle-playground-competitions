@@ -164,3 +164,5 @@ cython_debug/
 keys/
 *.csv
 .DS_Store
+.python-version
+uv.lock
