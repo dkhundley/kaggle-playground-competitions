@@ -7,5 +7,12 @@ requires-python = ">=3.12"
 dependencies = [
     "ipykernel>=6.29.5",
     "kaggle>=1.7.4.5",
+    "matplotlib>=3.10.3",
+    "pandas>=2.3.0",
     "polars>=1.30.0",
+    "pyarrow>=20.0.0",
+    "scikit-learn>=1.7.0",
+    "scipy>=1.16.0",
+    "umap>=0.1.1",
+    "umap-learn>=0.5.9.post2",
 ]
