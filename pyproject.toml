@@ -8,6 +8,7 @@ dependencies = [
     "ipykernel>=6.29.5",
     "kaggle>=1.7.4.5",
     "matplotlib>=3.10.3",
+    "optuna>=4.4.0",
     "pandas>=2.3.0",
     "polars>=1.30.0",
     "pyarrow>=20.0.0",
@@ -16,4 +17,5 @@ dependencies = [
     "seaborn>=0.13.2",
     "umap>=0.1.1",
     "umap-learn>=0.5.9.post2",
+    "xgboost>=3.0.2",
 ]
